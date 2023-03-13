@@ -105,3 +105,18 @@ python run_eval.py \
        --corpus_path ./WSD_Evaluation_Framework \
        --checkpoint_path ./checkpoints/CHECKPOINT_FILE_NAME.ckpt
 ```
+
+## License
+This codebase is Attribution-NonCommercial 4.0 International licensed, as found in the [LICENSE](https://github.com/ABERTer/EBEM/blob/main/LICENSE) file.
+
+## Citation
+If you use this work, please cite the corresponding [paper](https://ieeexplore.ieee.org/document/10020625): 
+```
+@INPROCEEDINGS{10020625,
+  author={Xiao, Xianglong and Xu, Hongguang and Xu, Ke},
+  booktitle={2022 IEEE International Conference on Big Data (Big Data)}, 
+  title={EBEM: An Enhanced Bi-encoder Model for Word Sense Disambiguation}, 
+  year={2022},
+  pages={3642-3650},
+  doi={10.1109/BigData55660.2022.10020625}}
+```
